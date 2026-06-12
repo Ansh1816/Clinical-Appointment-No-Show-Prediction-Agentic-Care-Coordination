@@ -8,9 +8,9 @@
 
 > **Live application:** https://genaicapstone4-anot5dcxcx9vhuxzsifnzb.streamlit.app/
 
-A two-stage healthcare operations system. The **mid-sem** milestone built a classical
+A two-stage healthcare operations system. The initial milestone was to built a classical
 machine-learning model that predicts appointment no-shows from scheduling data.
-The **end-sem** milestone extends that model into an **agentic care-coordination
+The 2nd milestone extends that model into an **agentic care-coordination
 assistant** that reasons over the risk prediction, retrieves the hospital's own
 operational guidelines using RAG, and produces a structured, citation-grounded
 intervention plan.
