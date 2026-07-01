@@ -262,7 +262,7 @@ agentic layer rather than on squeezing further accuracy out of the baseline.)
 
 | Member | Role |
 |---|---|
-| Ansh Badkur | ML model, base Streamlit UI, agent scaffolding, deployment, 5-step workflow integration, |
+| Ansh Badkur | ML model, base Streamlit UI, agent scaffolding, deployment, 5-step workflow integration |
 | Praanshu Ranjan | Prompt engineering, knowledge-base deployment fix, documentation, final report, demo video |
 
 ---
